@@ -14,6 +14,7 @@
 		72464EA31CEEACC200EBECA1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72464EA21CEEACC200EBECA1 /* Images.xcassets */; };
 		72464EA61CEEACC200EBECA1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72464EA41CEEACC200EBECA1 /* LaunchScreen.xib */; };
 		72464EB21CEEACC200EBECA1 /* Lesson3InterviewAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 72464EB11CEEACC200EBECA1 /* Lesson3InterviewAppTests.m */; };
+		72464EBD1CEEC2FE00EBECA1 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72464EBC1CEEC2FE00EBECA1 /* AboutViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		72464EAB1CEEACC200EBECA1 /* Lesson3InterviewAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lesson3InterviewAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		72464EB01CEEACC200EBECA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		72464EB11CEEACC200EBECA1 /* Lesson3InterviewAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Lesson3InterviewAppTests.m; sourceTree = "<group>"; };
+		72464EBB1CEEC2FE00EBECA1 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
+		72464EBC1CEEC2FE00EBECA1 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				72464E9A1CEEACC200EBECA1 /* AppDelegate.m */,
 				72464E9C1CEEACC200EBECA1 /* ViewController.h */,
 				72464E9D1CEEACC200EBECA1 /* ViewController.m */,
+				72464EBB1CEEC2FE00EBECA1 /* AboutViewController.h */,
+				72464EBC1CEEC2FE00EBECA1 /* AboutViewController.m */,
 				72464E9F1CEEACC200EBECA1 /* Main.storyboard */,
 				72464EA21CEEACC200EBECA1 /* Images.xcassets */,
 				72464EA41CEEACC200EBECA1 /* LaunchScreen.xib */,
@@ -221,6 +226,7 @@
 			files = (
 				72464E9E1CEEACC200EBECA1 /* ViewController.m in Sources */,
 				72464E9B1CEEACC200EBECA1 /* AppDelegate.m in Sources */,
+				72464EBD1CEEC2FE00EBECA1 /* AboutViewController.m in Sources */,
 				72464E981CEEACC200EBECA1 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

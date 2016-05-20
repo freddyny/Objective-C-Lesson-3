@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AboutViewController.h"
 
 @interface ViewController : UIViewController
+@property UITableView *myTableView;
 
-
+@property NSArray *myRowNames;
 @end
 
